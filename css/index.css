@@ -1,0 +1,28 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-con{
+    padding: 160px 0 0 0;
+}
+.my-button{
+    background: linear-gradient(132.77deg, #FFC727 -57.88%, rgba(200, 40, 95, 0.757653) 80.2%, rgba(162, 41, 41, 0.591919) 174.63%, rgba(91, 15, 43, 0.28125) 174.65%, rgba(255, 199, 39, 0) 174.67%);
+    width: 20vw;
+    height: 12vh;
+    border: none;
+    border-radius: 64px;
+    color: white;
+}
+#footer-section{
+    background-color: #37474F;
+}
+.our-ul li{
+    list-style: none;
+    padding: 12px;
+}
+.our-ul li a{
+    text-decoration: none;
+    color: white;
+}
